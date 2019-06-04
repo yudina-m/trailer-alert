@@ -1,2 +1,4 @@
 # trailer-alert
-Telegram bot for new trailer alerts
+Telegram bot for new Trailers alerts
+
+
